@@ -42,12 +42,5 @@ If you would like to contribute to the development of the Emoji Maker, please fo
 4. Push your changes to your fork: `git push origin my-branch`.
 5. Open a pull request in this repository, describing your changes and contributions.
 
-## License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed. See the [LICENSE](LICENSE) file for more information.
 
-## Contact
-
-If you have any questions or suggestions regarding the Emoji Maker, please contact us at support@emojimaker.com. We are always ready to assist and welcome feedback.
-
-Have fun creating your own emojis!
