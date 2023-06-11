@@ -18,7 +18,7 @@ The Emoji Maker is a web application that allows you to create and customize emo
 4. Preview the customized emoji in real-time.
 5. Click the "Save" button to download the emoji to your device.
 
-## Project Structure
+## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 
 The Emoji Maker project contains the following files:
 
