@@ -10,7 +10,7 @@ The Emoji Maker is a web application that allows you to create and customize emo
 - Image Import: In addition to the provided elements, you can also import your own images and incorporate them into the emojis.
 - Real-Time Preview: As you customize the emoji, it is displayed in real-time, allowing you to see the changes immediately.
 
-## How to Use
+## 𝗛𝗼𝘄 𝘁𝗼 𝗨𝘀𝗲
 
 1. Clone or download this repository.
 2. Open the `index.html` file in a web browser.
