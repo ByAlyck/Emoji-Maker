@@ -26,7 +26,7 @@ The Emoji Maker project contains the following files:
 - `styles.css`: The CSS file that contains styles for the layout and appearance of the page elements.
 - `script.js`: The JavaScript file that contains the interaction logic and element manipulation.
 
-## System Requirements
+## 𝗦𝘆𝘀𝘁𝗲𝗺 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀
 
 To use the Emoji Maker, you need a web browser that supports HTML5, CSS3, and JavaScript.
 
