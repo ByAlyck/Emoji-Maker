@@ -23,8 +23,8 @@ The Emoji Maker is a web application that allows you to create and customize emo
 The Emoji Maker project contains the following files:
 
 - `index.html`: The main HTML file that contains the page structure and interactive elements.
-- `styles.css`: The CSS file that contains styles for the layout and appearance of the page elements.
-- `script.js`: The JavaScript file that contains the interaction logic and element manipulation.
+- `main.css`: The CSS file that contains styles for the layout and appearance of the page elements.
+- `main.js`: The JavaScript file that contains the interaction logic and element manipulation.
 
 ## 𝗦𝘆𝘀𝘁𝗲𝗺 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀
 
