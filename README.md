@@ -30,7 +30,7 @@ The Emoji Maker project contains the following files:
 
 To use the Emoji Maker, you need a web browser that supports HTML5, CSS3, and JavaScript.
 
-## Contributing
+## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗻𝗴
 
 If you would like to contribute to the development of the Emoji Maker, please follow these steps:
 
