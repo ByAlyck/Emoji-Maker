@@ -1,6 +1,6 @@
 # 𝗘𝗺𝗼𝗷𝗶 𝗠𝗮𝗸𝗲𝗿
 
-The Emoji Maker is a web application that allows you to create and customize emojis using HTML, CSS, and JavaScript. With this tool, you can unleash your creativity and design personalized emojis to express your emotions in messages, social media, and other digital platforms.
+The Emoji Maker is a web application that allows you to create and customize emojis using HTML, CSS, and JavaScript. With this tool, you can unleash your creativity and design personalized emojis to express your emotions in messages, social media, and other digital platforms
 
 ## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
