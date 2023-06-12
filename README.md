@@ -39,7 +39,7 @@ If you would like to contribute to the development of the Emoji Maker, please fo
 3. Make the desired changes and commit them: `git commit -m "My contribution"`.
 4. Push your changes to your fork: `git push origin my-branch`.
 5. Open a pull request in this repository, describing your changes and contributions.
-[Emoji](https://byalyck.github.io/Emoji-Maker/)
+[𝗘𝗺𝗼𝗷𝗶 𝗠𝗮𝗸𝗲𝗿](https://byalyck.github.io/Emoji-Maker/)
 
 
 
